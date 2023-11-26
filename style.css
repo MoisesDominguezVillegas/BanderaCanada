@@ -1,0 +1,32 @@
+body{
+    background-color: #333333;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+.bandera{
+    height: 300px;
+    width: 500px;
+    margin: 0px auto;
+}
+.rojo{
+    background-color: red;
+    height: 300px;
+    width: 125px;
+    float: left;
+}
+
+.blanco{
+    background-color: white;
+    height: 250px;
+    width: 225px;
+    float: left;
+    padding-left: 25px;
+    padding-top:  50px;
+}
+
+.hoja{
+    width: 200px;
+}
